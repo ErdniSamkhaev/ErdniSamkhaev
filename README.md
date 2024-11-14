@@ -7,6 +7,7 @@
 <p align="center">
   <table>
     <tr>
+      <!-- Первая строка значков -->
       <td align="center" width="96">
         <a href="https://www.w3.org/html/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
@@ -26,11 +27,11 @@
         <br><b>JavaScript</b>
       </td>
       <td align="center" width="96">
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
-  </a>
-  <br><b>TypeScript</b>
-</td>
+        <a href="https://www.typescriptlang.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
+        </a>
+        <br><b>TypeScript</b>
+      </td>
       <td align="center" width="96">
         <a href="https://vuejs.org/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48"/>
@@ -45,6 +46,7 @@
       </td>
     </tr>
     <tr>
+      <!-- Вторая строка значков -->
       <td align="center" width="96">
         <a href="https://firebase.google.com/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48"/>
@@ -70,11 +72,37 @@
         <br><b>Python</b>
       </td>
       <td align="center" width="96">
+        <a href="https://www.djangoproject.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="48" height="48"/>
+        </a>
+        <br><b>Django</b>
+      </td>
+      <td align="center" width="96">
         <a href="https://git-scm.com/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/>
         </a>
         <br><b>Git</b>
       </td>
+    </tr>
+    <tr>
+      <!-- Третья строка значков -->
+      <td align="center" width="96">
+        <a href="https://www.linux.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
+        </a>
+        <br><b>Linux</b>
+      </td>
+      <td align="center" width="96">
+        <a href="https://fastapi.tiangolo.com/" target="_blank">
+          <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="48" height="48"/>
+        </a>
+        <br><b>FastAPI</b>
+      </td>
+      <!-- Дополнительные пустые ячейки -->
+      <td align="center" width="96"></td>
+      <td align="center" width="96"></td>
+      <td align="center" width="96"></td>
+      <td align="center" width="96"></td>
     </tr>
   </table>
 </p>
@@ -90,4 +118,15 @@
 
 ## ⚡ Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErdniSamkhaev&show_icons=true&theme=dark)
+<!-- GitHub Readme Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ErdniSamkhaev&theme=dark)](https://git.io/streak-stats)
+
+<!-- GitHub Trophies -->
+### 🏆 Мои достижения
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ErdniSamkhaev&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Активность в виде графика -->
+### 📊 Активность
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErdniSamkhaev&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
