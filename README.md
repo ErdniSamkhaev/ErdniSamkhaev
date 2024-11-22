@@ -116,17 +116,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@just__erdni-333?style=flat&logo=telegram&logoColor=white)](https://t.me/just_erdni)
 [![Email](https://img.shields.io/badge/Email-samhaev.e@yandex.ru-333?style=flat&logo=gmail&logoColor=white)](mailto:samhaev.e@yandex.ru)
 
-## ⚡ Статистика
-
-<!-- GitHub Readme Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ErdniSamkhaev&theme=dark)](https://git.io/streak-stats)
-
-<!-- GitHub Trophies -->
-### 🏆 Мои достижения
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ErdniSamkhaev&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Активность в виде графика -->
-### 📊 Активность
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErdniSamkhaev&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
