@@ -149,7 +149,6 @@
 ## 📝 Последние коммиты
 
 <p align="center">
-  <b>Доброе утро!</b>
 </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErdniSamkhaev&theme=react-dark" alt="Activity Graph"/>
 </p>
