@@ -4,11 +4,11 @@ now = datetime.now()
 hour = now.hour
 
 if hour < 12:
-    greeting = "Доброе утро, Эрдни!"
+    greeting = "Доброе утро!"
 elif hour < 18:
-    greeting = "Добрый день, Эрдни!"
+    greeting = "Добрый день!"
 else:
-    greeting = "Добрый вечер, Эрдни!"
+    greeting = "Добрый вечер!"
 
 with open("README.md", "r") as file:
     content = file.readlines()
