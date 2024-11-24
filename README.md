@@ -119,12 +119,12 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=just-erdni&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-erdni&layout=compact&theme=radical" alt="Most Used Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ErdniSamkhaev&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErdniSamkhaev&layout=compact&theme=radical" alt="Most Used Languages" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=just-erdni&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErdniSamkhaev&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ## 🚀 Цели на 2025 год
@@ -138,7 +138,7 @@
 ## 📝 Последние коммиты
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=just-erdni&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErdniSamkhaev&theme=react-dark" alt="Activity Graph"/>
 </p>
 
 
