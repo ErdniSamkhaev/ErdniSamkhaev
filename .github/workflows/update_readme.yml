@@ -11,10 +11,10 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3  # Обновлено с v2 на v3
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4  # Обновлено с v2 на v4
       with:
         python-version: "3.x"
 
@@ -31,3 +31,4 @@ jobs:
         git add README.md
         git commit -m "Updated greeting"
         git push
+
