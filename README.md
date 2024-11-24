@@ -4,11 +4,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErdniSamkhaev/ErdniSamkhaev/refs/heads/main/banner.webp" alt="Баннер" />
 </p>
-<p align="center">
-  <a href="https://github.com/ErdniSamkhaev">
-    <img src="https://assets7.lottiefiles.com/private_files/lf30_touohxv0.json" alt="Анимация" height="200"/>
-  </a>
-</p>
 
 
 ## 🛠 Технологии и инструменты
