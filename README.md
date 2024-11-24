@@ -145,16 +145,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErdniSamkhaev&theme=react-dark" alt="Activity Graph"/>
 </p>
 
-<style>
-  .icon:hover {
-    transform: scale(1.2);
-    transition: all 0.2s ease-in-out;
-  }
-</style>
-
-<p align="center">
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
-</p>
 
 <p align="center">
   <b>Доброе утро, Эрдни! Удачного дня!</b>
