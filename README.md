@@ -116,3 +116,34 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@just__erdni-333?style=flat&logo=telegram&logoColor=white)](https://t.me/just_erdni)
 [![Email](https://img.shields.io/badge/Email-samhaev.e@yandex.ru-333?style=flat&logo=gmail&logoColor=white)](mailto:samhaev.e@yandex.ru)
 
+## 📊 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=just-erdni&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-erdni&layout=compact&theme=radical" alt="Most Used Languages" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=just-erdni&theme=radical" alt="GitHub Streak"/>
+</p>
+
+## 🚀 Цели на 2025 год
+
+- 🚀 Реализовать минимум 5 новых проектов.
+- 🌟 Освоить Next.js и React.
+- 💼 Найти работу в крупной IT-компании.
+- 📚 Изучить продвинутые концепции Django и TypeScript.
+
+
+## 📝 Последние коммиты
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=just-erdni&theme=react-dark" alt="Activity Graph"/>
+</p>
+
+
+## 💡 Полезные ресурсы
+
+- [Vue.js Documentation](https://vuejs.org/guide/introduction.html)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [Awesome Nuxt.js](https://github.com/nuxt-community/awesome-nuxt)
