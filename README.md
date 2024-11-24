@@ -162,4 +162,3 @@
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [Awesome Nuxt.js](https://github.com/nuxt-community/awesome-nuxt)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ErdniSamkhaev.visitor-badge)
