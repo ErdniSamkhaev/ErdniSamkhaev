@@ -25,11 +25,11 @@ jobs:
       run: python update_readme.py
 
     - name: Push changes
-      env:
+      env:  # Вложенность должна быть корректной
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --global user.email "samhaev.e@yandex.ru"
         git config --global user.name "GitHub Actions"
-        git add README.md
-        git commit -m "Updated greeting"
-        git push
+        git add README.md || true
+        git commit -m "Updated greeting" || echo "Nothing to commit"
+        git push || echo "Nothing to push"
