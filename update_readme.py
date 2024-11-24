@@ -1,8 +1,10 @@
 from datetime import datetime
 
+# Получаем текущее время
 now = datetime.now()
 hour = now.hour
 
+# Определяем приветствие
 if hour < 12:
     greeting = "Доброе утро!"
 elif hour < 18:
@@ -10,12 +12,15 @@ elif hour < 18:
 else:
     greeting = "Добрый вечер!"
 
+# Открываем README.md
 with open("README.md", "r") as file:
     content = file.readlines()
 
+# Обновляем строку с приветствием
 for i in range(len(content)):
-    if content[i].startswith("<p align=\"center\">"):
-        content[i] = f"<p align=\"center\">\n  <b>{greeting}</b>\n</p>\n"
+    if "<p align=\"center\">" in content[i] and "<b>" in content[i]:
+        content[i] = f'<p align="center">\n  <b>{greeting}</b>\n</p>\n'
 
+# Сохраняем изменения в README.md
 with open("README.md", "w") as file:
     file.writelines(content)
