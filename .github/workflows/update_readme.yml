@@ -24,11 +24,12 @@ jobs:
     - name: Run update_readme.py
       run: python update_readme.py
 
-    - name: Commit changes
+    - name: Push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --local user.email "samhaev.e@yandex.ru"
-        git config --local user.name "Erdni Samkhaev"
+        git config --global user.email "samhaev.e@yandex.ru"
+        git config --global user.name "GitHub Actions"
         git add README.md
         git commit -m "Updated greeting"
         git push
-
