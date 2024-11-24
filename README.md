@@ -146,12 +146,6 @@
 </p>
 
 
-<p align="center">
-  <b>Доброе утро, Эрдни! Удачного дня!</b>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ErdniSamkhaev&label=Просмотры профиля&color=brightgreen" alt="Просмотры профиля" />
-</p>
 
 
 ## 💡 Полезные ресурсы
