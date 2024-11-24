@@ -174,5 +174,5 @@
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [Awesome Nuxt.js](https://github.com/nuxt-community/awesome-nuxt)
 
-[![Visitor Map](https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=GjoRLSZivyAIarE0N9PgrVgRcOLI7DoL5uVqa1PcSTA)](https://clustrmaps.com/site/1a9hd)
+<a href="https://clustrmaps.com/site/1c2mh"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GjoRLSZivyAIarE0N9PgrVgRcOLI7DoL5uVqa1PcSTA&cl=ffffff" /></a>
 
