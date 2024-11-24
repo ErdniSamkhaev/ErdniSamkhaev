@@ -1,10 +1,14 @@
 <p align="center">
+  <b>Доброе утро!</b>
+</p>
   <b>Добрый день!</b>
 </p>
 
 
 Меня зовут **Эрдни Самхаев**, я разработчик из Москвы.
 <p align="center">
+  <b>Доброе утро!</b>
+</p>
   <img src="https://raw.githubusercontent.com/ErdniSamkhaev/ErdniSamkhaev/refs/heads/main/banner.webp" alt="Баннер" />
 </p>
 
@@ -12,6 +16,8 @@
 ## 🛠 Технологии и инструменты
 
 <p align="center">
+  <b>Доброе утро!</b>
+</p>
   <table>
     <tr>
       <!-- Первая строка значков -->
@@ -126,11 +132,15 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
+  <b>Доброе утро!</b>
+</p>
   <img src="https://github-readme-stats.vercel.app/api?username=ErdniSamkhaev&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErdniSamkhaev&layout=compact&theme=radical" alt="Most Used Languages" height="180em"/>
 </p>
 
 <p align="center">
+  <b>Доброе утро!</b>
+</p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErdniSamkhaev&theme=radical" alt="GitHub Streak"/>
 </p>
 
@@ -145,6 +155,8 @@
 ## 📝 Последние коммиты
 
 <p align="center">
+  <b>Доброе утро!</b>
+</p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErdniSamkhaev&theme=react-dark" alt="Activity Graph"/>
 </p>
 
