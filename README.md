@@ -2,6 +2,9 @@
   <b>Доброе утро!</b>
 </p>
 
+<p align="center">
+  <img src="https://github.com/ErdniSamkhaev/ErdniSamkhaev/blob/557d8f2a521bd802bc2a94345259e35168180b42/Animation%20-%201732422567414.gif" alt="Animation" width="400" />
+</p>
 
 
 
