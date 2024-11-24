@@ -4,6 +4,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErdniSamkhaev/ErdniSamkhaev/refs/heads/main/banner.webp" alt="Баннер" />
 </p>
+<p align="center">
+  <a href="https://github.com/ErdniSamkhaev">
+    <img src="https://assets7.lottiefiles.com/private_files/lf30_touohxv0.json" alt="Анимация" height="200"/>
+  </a>
+</p>
 
 
 ## 🛠 Технологии и инструменты
@@ -143,6 +148,24 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErdniSamkhaev&theme=react-dark" alt="Activity Graph"/>
+</p>
+
+<style>
+  .icon:hover {
+    transform: scale(1.2);
+    transition: all 0.2s ease-in-out;
+  }
+</style>
+
+<p align="center">
+  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
+</p>
+
+<p align="center">
+  <b>Доброе утро, Эрдни! Удачного дня!</b>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ErdniSamkhaev&label=Просмотры профиля&color=brightgreen" alt="Просмотры профиля" />
 </p>
 
 
