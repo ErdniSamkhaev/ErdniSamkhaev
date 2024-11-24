@@ -1,0 +1,26 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+    - name: Update README
+      run: python update_readme.py
+    - name: Commit changes
+      run: |
+        git config --local user.email "your_email@example.com"
+        git config --local user.name "Erdni Samkhaev"
+        git add README.md
+        git commit -m "Updated greeting"
+        git push
