@@ -2,7 +2,7 @@
 
 Меня зовут **Эрдни Самхаев**, я разработчик из Москвы.
 <p align="center">
-  <img src="https://your-repository-name/banner.webp" alt="Баннер" />
+  <img src="https://ErdniSamkhaev/banner.webp" alt="Баннер" />
 </p>
 
 
