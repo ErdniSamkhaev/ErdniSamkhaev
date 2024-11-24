@@ -26,7 +26,7 @@ jobs:
 
     - name: Commit changes
       run: |
-        git config --local user.email "your_email@example.com"
+        git config --local user.email "samhaev.e@yandex.ru"
         git config --local user.name "Erdni Samkhaev"
         git add README.md
         git commit -m "Updated greeting"
