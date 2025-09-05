@@ -8,7 +8,7 @@
 
 </p>
 </p>
-  <img src="https://raw.githubusercontent.com/ErdniSamkhaev/ErdniSamkhaev/refs/heads/main/banner.webp" alt="Баннер" />
+
 </p>
 
 
