@@ -145,7 +145,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErdniSamkhaev&theme=radical" alt="GitHub Streak"/>
 </p>
 
-## 🚀 Цели на 2025 год
+## 🚀 Цели на 2026 год
 
 - 🚀 Реализовать минимум 5 новых проектов.
 - 🌟 Углубить знания по  Nuxt.js и Vue.
