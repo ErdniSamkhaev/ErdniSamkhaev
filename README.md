@@ -117,10 +117,18 @@
         </a>
         <br><b>Go</b>
       </td>
-      <!-- Дополнительные пустые ячейки -->
-      <td align="center" width="96"></td>
-      <td align="center" width="96"></td>
-      <td align="center" width="96"></td>
+      <td align="center" width="96">
+        <a href="https://www.docker.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/>
+        </a>
+        <br><b>Docker</b>
+      </td>
+      <td align="center" width="96">
+        <a href="https://kubernetes.io/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="48" height="48"/>
+        </a>
+        <br><b>Kubernetes</b>
+      </td>
       <td align="center" width="96"></td>
     </tr>
   </table>
