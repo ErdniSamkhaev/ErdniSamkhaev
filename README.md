@@ -135,12 +135,6 @@
 
 
 
-
-<a href="https://clustrmaps.com/site/1c2mh" title="Visit tracker">
-  <img src="https://www.clustrmaps.com/map_v2.png?d=GjoRLSZivyAIarE0N9PgrVgRcOLI7DoL5uVqa1PcSTA&cl=ffffff" alt="Visitor Map" />
-</a>
-
-
 <p align="center">
   <img src="https://github.com/ErdniSamkhaev/ErdniSamkhaev/blob/557d8f2a521bd802bc2a94345259e35168180b42/Animation%20-%201732422567414.gif" alt="Animation" width="400" />
 </p>
