@@ -111,6 +111,12 @@
         </a>
         <br><b>FastAPI</b>
       </td>
+      <td align="center" width="96">
+        <a href="https://go.dev/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48"/>
+        </a>
+        <br><b>Go</b>
+      </td>
       <!-- Дополнительные пустые ячейки -->
       <td align="center" width="96"></td>
       <td align="center" width="96"></td>
