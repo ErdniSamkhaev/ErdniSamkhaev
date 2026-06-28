@@ -145,6 +145,7 @@
 ## 🚀 Цели на 2026 год
 
 - 🚀 Реализовать минимум 5 новых проектов.
+  1. https://github.com/ErdniSamkhaev/checkerHosts
 - 🌟 Перекат в Go, Docker, Postgre, Kubernetes
 
 
