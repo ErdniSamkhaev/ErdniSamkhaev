@@ -136,12 +136,6 @@
 
 
 
-## 💡 Полезные ресурсы
-
-- [Vue.js Documentation](https://vuejs.org/guide/introduction.html)
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-- [Awesome Nuxt.js](https://github.com/nuxt-community/awesome-nuxt)
-
 <a href="https://clustrmaps.com/site/1c2mh" title="Visit tracker">
   <img src="https://www.clustrmaps.com/map_v2.png?d=GjoRLSZivyAIarE0N9PgrVgRcOLI7DoL5uVqa1PcSTA&cl=ffffff" alt="Visitor Map" />
 </a>
