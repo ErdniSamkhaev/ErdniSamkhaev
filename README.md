@@ -120,10 +120,7 @@
   </table>
 </p>
 
-## 🔭 Проекты
 
-
-- [**ToDo**](https://train-nuxt.vercel.app/)
 
 ## 📫 Контакты
 
