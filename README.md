@@ -130,35 +130,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@just__erdni-333?style=flat&logo=telegram&logoColor=white)](https://t.me/just_erdni)
 [![Email](https://img.shields.io/badge/Email-samhaev.e@yandex.ru-333?style=flat&logo=gmail&logoColor=white)](mailto:samhaev.e@yandex.ru)
 
-## 📊 GitHub Статистика
-
-<p align="center">
-</p>
-</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ErdniSamkhaev&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErdniSamkhaev&layout=compact&theme=radical" alt="Most Used Languages" height="180em"/>
-</p>
-
-<p align="center">
-</p>
-</p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErdniSamkhaev&theme=radical" alt="GitHub Streak"/>
-</p>
 
 ## 🚀 Цели на 2026 год
 
 - 🚀 Реализовать минимум 5 новых проектов.
 - 🌟 Перекат в Go, Docker, Postgre, Kubernetes
-
-
-
-## 📝 Последние коммиты
-
-<p align="center">
-</p>
-</p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErdniSamkhaev&theme=react-dark" alt="Activity Graph"/>
-</p>
 
 
 
